@@ -16,19 +16,16 @@ Requirements:
 
 ## Solution Guidelines: 
 1) Understand and practice the following topics before developing this assignment::
-
-          R Nodes
-          R List
-          R Linked List
-          RLinked List Methods
+   Nodes
+   List
+   Linked List
+   Linked List Methods
 
     2) To save product information, use the Linked List data structure. Each product will be represented by a node.Do not use strcut . You have to implement Node class . Using struct will result in deduction of marks
 
     3) Your solution should use these classes:
+       
     ![image](https://github.com/amna-rahman/DataStructures-InventoryUsingLinkedList-/assets/109412864/b560e0a2-0428-44f0-b81a-2aa1a6a70a07)
-
-
-
         a. Node class: To save information of each product
         b. Inventory Class: To save all products in linked list
 
