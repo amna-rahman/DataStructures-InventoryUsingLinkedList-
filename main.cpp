@@ -1,4 +1,4 @@
-//bc220406761 
+
 #include<iostream>
 #include<iomanip>
 using namespace std;
